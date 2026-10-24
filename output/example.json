@@ -1,0 +1,38 @@
+{
+  "document_id": "001",
+  "pages": [
+    {
+      "page_number": 114,
+      "sections": [
+        {
+          "type": "Que",
+          "title": "Que...",
+          "hexagram_image": "link",
+          "upper_trigram": "text",
+          "lower_trigram": "text",
+          "hexagram_name": "text"
+        },
+        {
+          "type": "KinhVan",
+          "han_text": "han_text",
+          "sound": "text",
+          "meaning": "text"
+        },
+        {
+          "type": "GiaiThich",
+          "text": "text"
+        },
+        {
+          "type": "GhiChuNguoiDich",
+          "notes": [
+            {
+              "number": 1,
+              "text": "text",
+              "han_text": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

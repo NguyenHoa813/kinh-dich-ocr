@@ -1,0 +1,14 @@
+# Runtime dependencies
+Pillow
+numpy
+opencv-python
+pytesseract
+
+# Test dependency
+pytest
+
+# Tesseract OCR must also be installed separately on Windows:
+# https://github.com/UB-Mannheim/tesseract/wiki
+
+# Optional: only needed for the experimental PaddleOCR code in test_temp_file.py
+# paddleocr

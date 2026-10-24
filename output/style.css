@@ -1,0 +1,125 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: #eee;
+    color: #222;
+    font-family: "Noto Serif", "Noto Serif CJK TC", serif;
+    line-height: 1.7;
+}
+
+.document {
+    max-width: 900px;
+    margin: 24px auto;
+}
+
+.book-page {
+    position: relative;
+    min-height: 1120px;
+    padding: 64px 72px 90px;
+    margin-bottom: 24px;
+    background: white;
+    box-shadow: 0 2px 12px #00000012;
+}
+
+.hexagram-header h1,
+.section-heading {
+    text-align: center;
+    font-weight: 700;
+}
+
+.hexagram-header h1 {
+    font-size: 24px;
+    letter-spacing: 2px;
+}
+
+.hexagram-intro {
+    display: grid;
+    grid-template-columns: 1fr 1.4fr;
+    align-items: center;
+    gap: 32px;
+    margin: 24px 0;
+}
+
+.hexagram-figure {
+    margin: 0;
+    text-align: center;
+}
+
+.hexagram-figure img {
+    display: inline-block;
+    max-width: 100%;
+    max-height: 180px;
+    object-fit: contain;
+}
+
+.hexagram-name {
+    text-align: center;
+}
+
+.section-divider {
+    border: 0;
+    border-top: 1px solid #777;
+    margin: 28px 0;
+}
+
+.section-heading {
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+.han-text {
+    text-align: center;
+    font-size: 22px;
+    line-height: 2;
+    white-space: pre-wrap;
+}
+
+.subsection h3 {
+    display: inline;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.subsection p {
+    margin-top: 4px;
+}
+
+.translator-notes {
+    margin-top: 28px;
+}
+
+.page-footer {
+    position: absolute;
+    bottom: 24px;
+    left: 72px;
+    right: 72px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 13px;
+}
+
+@media print {
+    body {
+        background: white;
+    }
+
+    .document {
+        max-width: none;
+        margin: 0;
+    }
+
+    .book-page {
+        box-shadow: none;
+        margin: 0;
+        break-after: page;
+    }
+
+    .book-page:last-child {
+        break-after: auto;
+    }
+}
