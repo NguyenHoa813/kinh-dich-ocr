@@ -1,0 +1,238 @@
+{
+  "input": "output\\page3\\page3_page.png",
+  "languages": "vie+chi_tra",
+  "lines": [
+    {
+      "text": "KIỀN",
+      "left": 940,
+      "top": 290,
+      "width": 190,
+      "height": 69,
+      "confidence": 92.0
+    },
+    {
+      "text": "Kiền thượng + Kiền hạ =",
+      "left": 988,
+      "top": 459,
+      "width": 553,
+      "height": 58,
+      "confidence": 92.66666666666667
+    },
+    {
+      "text": "Bát Thuần Kiền",
+      "left": 1085,
+      "top": 537,
+      "width": 355,
+      "height": 49,
+      "confidence": 81.66666666666667
+    },
+    {
+      "text": "KINH VĂN",
+      "left": 808,
+      "top": 830,
+      "width": 258,
+      "height": 52,
+      "confidence": 94.5
+    },
+    {
+      "text": "乾 元 亨 利 貞",
+      "left": 655,
+      "top": 920,
+      "width": 511,
+      "height": 60,
+      "confidence": 79.6
+    },
+    {
+      "text": "$%° 7",
+      "left": 655,
+      "top": 921,
+      "width": 317,
+      "height": 59,
+      "confidence": 75.0
+    },
+    {
+      "text": "Âm: Kiên, Nguyên, Hanh, Lợi, Trinh",
+      "left": 296,
+      "top": 1058,
+      "width": 765,
+      "height": 58,
+      "confidence": 93.33333333333333
+    },
+    {
+      "text": "Nghĩa: Kiền có bốn đức: Nguyên, Hanh, Lợi,",
+      "left": 296,
+      "top": 1137,
+      "width": 942,
+      "height": 57,
+      "confidence": 93.75
+    },
+    {
+      "text": "GIẢI THÍCH",
+      "left": 788,
+      "top": 1225,
+      "width": 298,
+      "height": 47,
+      "confidence": 92.5
+    },
+    {
+      "text": "Cả sáu hào đều dương nên gọi là Kiền. Kiền là kiện (mạnh mẽ)",
+      "left": 296,
+      "top": 1311,
+      "width": 1364,
+      "height": 59,
+      "confidence": 94.5
+    },
+    {
+      "text": "vậy. Tại trời là khí dương, tại đất là cứng, tại người là trí là nghĩa, tại",
+      "left": 213,
+      "top": 1372,
+      "width": 1447,
+      "height": 60,
+      "confidence": 96.11764705882354
+    },
+    {
+      "text": "tính là chiếu, tại tu là quán. Lại nữa, tại khí giới?) là che; tại thân thể là",
+      "left": 212,
+      "top": 1432,
+      "width": 1449,
+      "height": 60,
+      "confidence": 93.27777777777777
+    },
+    {
+      "text": "đầu, là thiên quân; tại nhà là chủ; tại nước là vua; tại thiên hạ là đề. Có",
+      "left": 213,
+      "top": 1493,
+      "width": 1446,
+      "height": 61,
+      "confidence": 93.83333333333333
+    },
+    {
+      "text": "kẻ dùng đạo trời để giải thích, có kẻ dùng đạo vua để giải thích, đều là",
+      "left": 212,
+      "top": 1555,
+      "width": 1449,
+      "height": 60,
+      "confidence": 95.76470588235294
+    },
+    {
+      "text": "phiến điện một góc. Mạnh mẽ thì việc làm không bị ngăn ngại, cho nên",
+      "left": 212,
+      "top": 1619,
+      "width": 1448,
+      "height": 57,
+      "confidence": 94.13333333333334
+    },
+    {
+      "text": "gọi là nguyên, hanh. Nhưng cần nên thấy sự mạnh mẽ này ở tại việc",
+      "left": 212,
+      "top": 1674,
+      "width": 1446,
+      "height": 66,
+      "confidence": 96.0
+    },
+    {
+      "text": "nào, thì đó là sự răn đe lợi trinh. Thánh nhân khai thị cho học giả chủ",
+      "left": 213,
+      "top": 1747,
+      "width": 1447,
+      "height": 46,
+      "confidence": 95.29411764705883
+    },
+    {
+      "text": "yếu là ở điều này; cho nên mới gọi tu đạo là giáo®) vậy.",
+      "left": 211,
+      "top": 1800,
+      "width": 1146,
+      "height": 57,
+      "confidence": 93.0
+    },
+    {
+      "text": "Phàm mạnh mẽ về thượng phẩm thập tất rơi vào chốn địa",
+      "left": 295,
+      "top": 1876,
+      "width": 1366,
+      "height": 71,
+      "confidence": 91.66666666666667
+    },
+    {
+      "text": "ngục. Mạnh mẽ về trung phẩm hạ ác tất rơi vào cõi súc sinh. Mạnh mẽ",
+      "left": 212,
+      "top": 1935,
+      "width": 1447,
+      "height": 78,
+      "confidence": 93.4375
+    },
+    {
+      "text": "về hạ thập ác tất rơi vào chốn ma quỷ. Mạnh mẽ về hạ phâm thập",
+      "left": 212,
+      "top": 1999,
+      "width": 1448,
+      "height": 59,
+      "confidence": 94.4375
+    },
+    {
+      "text": "thiện tất thành A Tu La. Mạnh mẽ về trung phẩm thập thiện tất sinh",
+      "left": 212,
+      "top": 2060,
+      "width": 1449,
+      "height": 58,
+      "confidence": 95.06666666666666
+    },
+    {
+      "text": "vào cõi người. Mạnh mẽ về thượng phẩm thập thiện tất sinh vào cõi",
+      "left": 212,
+      "top": 2121,
+      "width": 1447,
+      "height": 69,
+      "confidence": 93.64285714285714
+    },
+    {
+      "text": "trời. Mạnh mẽ về thượng phẩm thập thiện mà còn kiêm tu thiền định",
+      "left": 211,
+      "top": 2181,
+      "width": 1449,
+      "height": 70,
+      "confidence": 95.57142857142857
+    },
+    {
+      "text": "tất sinh vào cõi sắc, vô sắc giới. Mạnh mẽ về trung phẩm thập thiện",
+      "left": 211,
+      "top": 2242,
+      "width": 1449,
+      "height": 68,
+      "confidence": 95.93333333333334
+    },
+    {
+      "text": "mà còn kiêm tu tứ đế, thập nhị nhân duyên tất đạt được quả chứng nhị",
+      "left": 212,
+      "top": 2302,
+      "width": 1448,
+      "height": 57,
+      "confidence": 95.25
+    },
+    {
+      "text": "thừa. Mạnh mẽ về thượng thượng phẩm thập thiện, mà có thể tự lợi lợi",
+      "left": 211,
+      "top": 2362,
+      "width": 1448,
+      "height": 58,
+      "confidence": 94.33333333333333
+    },
+    {
+      "text": "tha tất thành Bồ Tát. Mạnh mẽ về thượng thượng thập thiện, mà",
+      "left": 211,
+      "top": 2423,
+      "width": 1449,
+      "height": 59,
+      "confidence": 95.15384615384616
+    },
+    {
+      "text": "QUYỂN 1 33",
+      "left": 212,
+      "top": 2547,
+      "width": 1444,
+      "height": 53,
+      "confidence": 94.33333333333333
+    }
+  ]
+}

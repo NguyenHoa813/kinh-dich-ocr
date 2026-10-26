@@ -1,0 +1,270 @@
+{
+  "input": "output\\page4\\page4_page.png",
+  "languages": "vie+chi_tra",
+  "lines": [
+    {
+      "text": "liễu tri thập thiện tức là pháp giới, là Phật tính ắt tựu thành Vô Thượng",
+      "left": 264,
+      "top": 151,
+      "width": 1446,
+      "height": 59,
+      "confidence": 95.5625
+    },
+    {
+      "text": "Bồ Đê, tự lợi lợi tha tât thành Bô Tát.",
+      "left": 263,
+      "top": 223,
+      "width": 774,
+      "height": 46,
+      "confidence": 89.8
+    },
+    {
+      "text": "Cho nên mười cối đều là nguyên, hanh. Tam ác là tà, tam thiện là chính;",
+      "left": 346,
+      "top": 291,
+      "width": 1361,
+      "height": 58,
+      "confidence": 94.8125
+    },
+    {
+      "text": "lục đạo hữu lậu là tà, tam thừa vô lậu là chính; nhị thừa thiên lệch là tà, Bồ",
+      "left": 263,
+      "top": 362,
+      "width": 1445,
+      "height": 46,
+      "confidence": 93.57894736842105
+    },
+    {
+      "text": "Tát độ người là chính; quyên thừa nhị đê là tà, Phật giới trung đạo là chính;",
+      "left": 262,
+      "top": 422,
+      "width": 1445,
+      "height": 48,
+      "confidence": 96.17647058823529
+    },
+    {
+      "text": "phân biệt trung biên không đông là tà, tât cả chăng có gì không là Trung đạo",
+      "left": 261,
+      "top": 483,
+      "width": 1447,
+      "height": 48,
+      "confidence": 95.47058823529412
+    },
+    {
+      "text": "là chính. Đây là sự răn ngừa của lợi trinh vì kiện hành mà bày ra vậy.",
+      "left": 263,
+      "top": 544,
+      "width": 1323,
+      "height": 47,
+      "confidence": 95.52941176470588
+    },
+    {
+      "text": "Ghi chú của người dịch",
+      "left": 345,
+      "top": 621,
+      "width": 558,
+      "height": 48,
+      "confidence": 95.8
+    },
+    {
+      "text": "(1) Đạo Kiền dùng để chỉ cái hoạt lực sáng tạo, vận hành trong vũ trụ;",
+      "left": 345,
+      "top": 697,
+      "width": 1360,
+      "height": 49,
+      "confidence": 95.5
+    },
+    {
+      "text": "hoặc dùng để chỉ sự vận hành của tâm thức ứng hợp theo tiết nhịp của",
+      "left": 345,
+      "top": 757,
+      "width": 1361,
+      "height": 49,
+      "confidence": 95.9375
+    },
+    {
+      "text": "vũ trụ. Nguyên là sự khởi đầu; Han” là thông suốt; Lợi là thuận lợi, hài",
+      "left": 343,
+      "top": 818,
+      "width": 1363,
+      "height": 49,
+      "confidence": 94.25
+    },
+    {
+      "text": "hòa; là ngay chính, kiên trinh. :",
+      "left": 345,
+      "top": 877,
+      "width": 1158,
+      "height": 53,
+      "confidence": 92.0
+    },
+    {
+      "text": "(2) Khí giới cũng gọi là khí thế giới tức cõi vật dụng,",
+      "left": 344,
+      "top": 956,
+      "width": 1360,
+      "height": 48,
+      "confidence": 95.38461538461539
+    },
+    {
+      "text": "dùng để chỉ tất cả các quốc độ mà chúng sinh nương tựa, cùng tất cả",
+      "left": 343,
+      "top": 1015,
+      "width": 1362,
+      "height": 49,
+      "confidence": 95.9375
+    },
+    {
+      "text": "những khí vật mà chúng sinh sử dụng.",
+      "left": 344,
+      "top": 1080,
+      "width": 740,
+      "height": 43,
+      "confidence": 95.875
+    },
+    {
+      "text": "(3)Trung Dung: Thiên mệnh chi vị tính, suất tính vị đạo, tu đạo chi",
+      "left": 356,
+      "top": 1152,
+      "width": 1353,
+      "height": 49,
+      "confidence": 92.0
+    },
+    {
+      "text": "vị giáo. X # 1# > ? #4. (Cái được phú",
+      "left": 344,
+      "top": 1212,
+      "width": 1360,
+      "height": 50,
+      "confidence": 88.18181818181819
+    },
+    {
+      "text": "ở trời gọi là tính, nương theo tính để hoạt động gọi là đạo, sửa đổi",
+      "left": 427,
+      "top": 1268,
+      "width": 1277,
+      "height": 59,
+      "confidence": 95.25
+    },
+    {
+      "text": "cho hợp với đạo gọi là giáo).",
+      "left": 342,
+      "top": 1341,
+      "width": 550,
+      "height": 41,
+      "confidence": 96.14285714285714
+    },
+    {
+      "text": "(4) Thập ác là mười tội ác do thân, khẩu, ý gây ra.",
+      "left": 342,
+      "top": 1411,
+      "width": 963,
+      "height": 48,
+      "confidence": 96.15384615384616
+    },
+    {
+      "text": "Thân gây 3 tội ác: 1. Sát sanh: giết hại sanh vật; 2. Thâu đạo: trộm",
+      "left": 341,
+      "top": 1488,
+      "width": 1363,
+      "height": 49,
+      "confidence": 95.5
+    },
+    {
+      "text": "cướp; 3. Tà dâm.",
+      "left": 342,
+      "top": 1556,
+      "width": 332,
+      "height": 41,
+      "confidence": 95.75
+    },
+    {
+      "text": "Khẫu (miệng) gây ra 4 tội ác: 4. Vọng ngữ: nói láo; 5. Ÿ ngữ: nói thêu dệt;",
+      "left": 343,
+      "top": 1625,
+      "width": 1359,
+      "height": 50,
+      "confidence": 94.83333333333333
+    },
+    {
+      "text": "6. Lưỡng thiệt: nói hai lưỡi, nói đâm thọc; 7. Ác khẩu: nói điều ác độc.",
+      "left": 340,
+      "top": 1686,
+      "width": 1315,
+      "height": 49,
+      "confidence": 95.0625
+    },
+    {
+      "text": "Ý (tư tưởng) gây ra 3 tội ác: 8. Tham: tham lam; 9. Sân: giận hờn; 10.",
+      "left": 340,
+      "top": 1761,
+      "width": 1361,
+      "height": 56,
+      "confidence": 95.70588235294117
+    },
+    {
+      "text": "Si: mê muội, tà kiến.",
+      "left": 341,
+      "top": 1824,
+      "width": 391,
+      "height": 47,
+      "confidence": 95.0
+    },
+    {
+      "text": "Ngược với thập ác là thập thiện.",
+      "left": 342,
+      "top": 1910,
+      "width": 618,
+      "height": 42,
+      "confidence": 95.14285714285714
+    },
+    {
+      "text": "KINH VĂN",
+      "left": 852,
+      "top": 2102,
+      "width": 257,
+      "height": 52,
+      "confidence": 94.0
+    },
+    {
+      "text": "3) ï# ñš 7 H °",
+      "left": 648,
+      "top": 2194,
+      "width": 665,
+      "height": 57,
+      "confidence": 73.83333333333333
+    },
+    {
+      "text": "初 九 潛 龍 勿 用",
+      "left": 648,
+      "top": 2194,
+      "width": 611,
+      "height": 57,
+      "confidence": 90.16666666666667
+    },
+    {
+      "text": "Âm: Sơ cửu: Tiềm long vật dụng.",
+      "left": 338,
+      "top": 2347,
+      "width": 685,
+      "height": 59,
+      "confidence": 96.14285714285714
+    },
+    {
+      "text": "Nghĩa: Hào sơ cửu: Rồng còn năm ân, chớ nên hoạt động.",
+      "left": 339,
+      "top": 2436,
+      "width": 1208,
+      "height": 49,
+      "confidence": 94.91666666666667
+    },
+    {
+      "text": "34 CHU DỊCH THIỀN GIẢI",
+      "left": 257,
+      "top": 2551,
+      "width": 1442,
+      "height": 70,
+      "confidence": 94.0
+    }
+  ]
+}

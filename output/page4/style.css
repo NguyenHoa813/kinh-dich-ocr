@@ -1,0 +1,191 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 24px 12px;
+    background: #e8e6e2;
+    color: #171511;
+    font-family: "Noto Serif", "Noto Serif CJK TC", "Times New Roman", serif;
+    line-height: 1.55;
+}
+
+.document {
+    max-width: 820px;
+    margin: 0 auto;
+}
+
+.book-page {
+    position: relative;
+    min-height: 1120px;
+    padding: 72px 68px 76px;
+    background: #fff;
+    box-shadow: 0 3px 18px #0000001c;
+}
+
+.hexagram-header h1,
+.section-heading {
+    text-align: center;
+    font-weight: 700;
+}
+
+.hexagram-header h1 {
+    margin: 0 0 32px;
+    font-size: 26px;
+    letter-spacing: 2px;
+}
+
+.hexagram-intro {
+    display: grid;
+    grid-template-columns: 1fr 1.4fr;
+    align-items: center;
+    gap: 32px;
+    margin: 24px 0 38px;
+}
+
+.hexagram-figure {
+    margin: 0;
+    text-align: center;
+}
+
+.hexagram-figure img {
+    display: inline-block;
+    max-width: 100%;
+    max-height: 180px;
+    object-fit: contain;
+}
+
+.hexagram-name {
+    text-align: center;
+}
+
+.hexagram-name h2 {
+    margin: 12px 0 0;
+    font-size: 20px;
+}
+
+.trigram-line {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    color: #333;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.section-divider {
+    border: 0;
+    border-top: 1px solid #555;
+    margin: 30px 0 20px;
+}
+
+.content-card {
+    margin: 22px 0;
+}
+
+.section-heading {
+    margin: 18px 0;
+    font-size: 21px;
+}
+
+.han-text {
+    margin: 12px 0 22px;
+    text-align: center;
+    font-family: "Noto Serif CJK TC", "Noto Serif", serif;
+    font-size: 25px;
+    line-height: 2;
+    letter-spacing: .25em;
+    white-space: pre-wrap;
+}
+
+.translation-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 4px;
+}
+
+.subsection h3 {
+    display: inline;
+    margin: 0;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.subsection p {
+    display: inline;
+    margin: 0 0 0 6px;
+    font-size: 17px;
+}
+
+.explanation p {
+    margin: 0;
+    text-align: justify;
+    text-indent: 2em;
+    font-size: 17px;
+    line-height: 1.65;
+}
+
+.translator-notes {
+    margin-top: 28px;
+}
+
+.translator-notes .section-heading {
+    text-align: left;
+}
+
+.translator-notes ol {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.translator-notes li {
+    display: grid;
+    grid-template-columns: 28px minmax(0, 1fr);
+    gap: 8px;
+    margin: 0 0 10px;
+    text-align: justify;
+}
+
+.page-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 42px;
+    font-size: 15px;
+}
+
+@media (max-width: 640px) {
+    body {
+        padding: 8px;
+    }
+
+    .book-page {
+        min-height: 0;
+        padding: 36px 24px;
+    }
+
+    .hexagram-intro {
+        grid-template-columns: 1fr;
+        gap: 16px;
+    }
+}
+
+@media print {
+    body {
+        padding: 0;
+        background: white;
+    }
+
+    .document {
+        max-width: none;
+        margin: 0;
+    }
+
+    .book-page {
+        min-height: 0;
+        padding: 15mm 18mm;
+        box-shadow: none;
+    }
+}
